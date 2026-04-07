@@ -106,5 +106,3 @@ Machine Learning Engineer | AI | Deep Learning
 
 ---
 
-Just tell me 👍
-
